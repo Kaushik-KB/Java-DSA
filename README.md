@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kaushik-KB/Java-DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
