@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaushik-KB/Java-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushik-KB/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -47,9 +49,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Kaushik-KB/Java-DSA/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
