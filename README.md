@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaushik-KB/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/Kaushik-KB/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Kaushik-KB/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Kaushik-KB/Java-DSA/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
