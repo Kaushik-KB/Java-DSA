@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kaushik-KB/Java-DSA/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Kaushik-KB/Java-DSA/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kaushik-KB/Java-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Kaushik-KB/Java-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Kaushik-KB/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Kaushik-KB/Java-DSA/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaushik-KB/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Kaushik-KB/Java-DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kaushik-KB/Java-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Kaushik-KB/Java-DSA/tree/master/1920-build-array-from-permutation) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kaushik-KB/Java-DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
